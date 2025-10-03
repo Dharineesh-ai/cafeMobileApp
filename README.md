@@ -33,10 +33,8 @@ This was built following the tutorial video. You can use the app as a foundation
 
 ## 📱 Screenshots / Demo
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d5286aca-c5d5-4a88-b8c4-e505ea0b5280" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/09c6b368-9824-46e2-beea-3f258529c8fc" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bdffa0db-99c2-43a4-ac58-822f2c610e0e" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2118b468-e6a7-4022-b6b6-522595a6d523" />
+<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/d5286aca-c5d5-4a88-b8c4-e505ea0b5280" />  <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/09c6b368-9824-46e2-beea-3f258529c8fc" />
+<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/bdffa0db-99c2-43a4-ac58-822f2c610e0e" /> <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/2118b468-e6a7-4022-b6b6-522595a6d523" />
 
 
 
